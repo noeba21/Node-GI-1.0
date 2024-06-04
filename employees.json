@@ -1,0 +1,62 @@
+[
+    {
+       "EmployeeID": "1111",
+       "Name": "Noe Ba",
+       "Salary": "$525",
+       "Department": "NBA Engineer Intern"
+    },
+    {
+       "EmployeeID": "2222",
+       "Name": "Kevin Durant",
+       "Salary": "$51,179,020",
+       "Department": "NBA Basketball Player"
+    },
+    {
+        "EmployeeID": "3333",
+        "Name": "Jayson Tatum",
+        "Salary": "$34,848,340",
+        "Department": "NBA Basketball Player"
+     },
+     {
+        "EmployeeID": "4444",
+        "Name": "Jaylen Brown",
+        "Salary": "$49,350,000",
+        "Department": "NBA Basketball Player"
+     },
+     {
+        "EmployeeID": "5555",
+        "Name": "Stephen Curry",
+        "Salary": "$55,761,217",
+        "Department": "NBA Basketball Player"
+     },
+     {
+        "EmployeeID": "6666",
+        "Name": "Nikola Jokic",
+        "Salary": "$51,415,938",
+        "Department": "NBA Basketball Player"
+     },
+     {
+        "EmployeeID": "7777",
+        "Name": "Lebron James",
+        "Salary": "$51,415,938",
+        "Department": "NBA Basketball Player"
+     },
+     {
+        "EmployeeID": "8888",
+        "Name": "Joel Embiid",
+        "Salary": "$51,415,938",
+        "Department": "NBA Basketball Player"
+     },
+     {
+        "EmployeeID": "9999",
+        "Name": "Bradley Beal",
+        "Salary": "$50,203,930",
+        "Department": "NBA Basketball Player"
+     },
+     {
+        "EmployeeID": "0000",
+        "Name": "Kawhi Leonaerd",
+        "Salary": "$52,368,085",
+        "Department": "NBA Basketball Player"
+     }
+]
